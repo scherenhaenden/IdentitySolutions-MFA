@@ -1,2 +1,5 @@
 IdentityService.Mobile/bin/
 IdentityService.Mobile.Maui/bin/
+IdentityService.Mobile.Maui/obj/
+IdentityService.Mobile/obj/
+
